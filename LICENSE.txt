@@ -1,0 +1,16 @@
+Copyright (c) 2025 Vasyl Babenko
+All rights reserved.
+
+This project is provided for **educational and demonstration purposes only**.
+
+You are permitted to:
+- View and study the source code
+- Share the repository link with proper credit to the author
+
+You are **not permitted to**:
+- Copy or reuse any part of the code in your own projects
+- Modify the source code
+- Use the project or its parts for commercial purposes
+- Reupload the project to other platforms under your own name
+
+For any exceptions or licensing inquiries, please contact the author directly.
